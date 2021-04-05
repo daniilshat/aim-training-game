@@ -8,7 +8,7 @@ Simple game for training your AIM, reaction and speed.
 
 ## Screenshots and rules of the game
 Squares of different types fall from the top side. When you click on a square, it disappears and the number of points increases. If the square hits, then the amount of health decreases
-![Screenshot 1](aim-training-game/Screenshots/screenshot1.jpg)
+![Screenshot 1](https://github.com/daniilshat/aim-training-game/blob/main/Screenshots/screenshot1.jpg)
 
 
 **Types of squares (from more to less):**
@@ -18,7 +18,7 @@ Squares of different types fall from the top side. When you click on a square, i
 4. Red | Size 35x35 pixels, Points: 10
    
 Player has 20 health points. Each fall takes one away.
-![Screenshot 2](aim-training-game/Screenshots/screenshot2.jpg)
+![Screenshot 2](https://github.com/daniilshat/aim-training-game/blob/main/Screenshots/screenshot2.jpg)
 
 ## How to compile it
 You need to install the library SFML 2.5 for compilation
