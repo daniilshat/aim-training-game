@@ -1,5 +1,5 @@
 # AIM training game
-Simple game for training your AIM, reaction and speed.
+🎮 Simple game for training your AIM, reaction and speed.
 
 ## Used technologies
 + C++;
